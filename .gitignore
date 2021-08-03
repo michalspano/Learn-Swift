@@ -97,3 +97,8 @@ textFileQuiz
 # Ignore study materials
 CWC Learn Swift 2019 Challenges
 Swift worksheet
+icon-war_game.jpg
+
+# Ignore
+.DS_Store
+.idea
