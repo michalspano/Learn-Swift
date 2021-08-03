@@ -1,0 +1,1 @@
+iOS native application created using Swift able to present array content in a UITableView and other configurations.
