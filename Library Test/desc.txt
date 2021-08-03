@@ -1,0 +1,1 @@
+'Library Test' covers a simple iOS native app able to change the BG settings according to user's swipe gesture.
