@@ -1,0 +1,1 @@
+This directory contains all practise exercises in the Swift Playground.
