@@ -1,0 +1,1 @@
+Simple iOS native Application able to check for Light/Dark mode manually via code.
