@@ -93,3 +93,7 @@ iOSInjectionProject/
 # Duplicate text field template project
 Template
 textFileQuiz
+
+# Ignore study materials
+CWC Learn Swift 2019 Challenges
+Swift worksheet
